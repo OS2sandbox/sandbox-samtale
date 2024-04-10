@@ -4,10 +4,6 @@ The product/project is part of OS2's portfolio and is maintained according to th
 
 ## Definitions
 
-### Project
-
-### Product
-
 ### Users
 are those whose primary relationship to the product/project is to consume/use it's code and othere results.
 
