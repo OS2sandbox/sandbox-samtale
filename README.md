@@ -7,6 +7,7 @@ _Empowering organizations and authorities to collaborate effectively through foc
 - **100% [Open Source](https://opensource.com/resources/what-open-source)**: Committed to transparency and community involvement.
 - **Hosted in the [OS2 sandbox](https://github.com/OS2sandbox)**: Bringing together ideas, developers and user - working together to mature the project.
 - **Built on upstream project [Zulip](https://github.com/zulip)**: Leveraging a robust and proven foundation for messaging.
+- **Integrates with your existing accounts**: Supports Single-Sign On with most modern IDPs. Development underway for supporting [municipal login](https://github.com/OS2sandbox/sandbox-myndighedsidentitet/tree/main)
 
 ### 🚀 Getting Started 
 
