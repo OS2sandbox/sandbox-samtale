@@ -1,6 +1,7 @@
 # 🗣️ Samtale
 _Empowering organizations and authorities to collaborate effectively through focused discussions._
 ###### A sandbox project by [OS2](https://www.os2.eu/)
+This repository is dedicated to tracking issues that enable collaborative efforts to improve the [Zulip](https://github.com/zulip)** project, getting it production ready for deployment in os2, ready to serve danish authorities. 
 
 ### ❔ Why Samtale?
 - **Contextual and Topic-Driven Conversations**: Participate in [efficient communication, without interuption.](https://zulip.com/why-zulip/)
@@ -13,7 +14,7 @@ _Empowering organizations and authorities to collaborate effectively through foc
 ### 🚀 Getting Started 
 
 1. **Join GitHub**: Ensure you're part of the world's largest development platform. Sign up [here](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) if you're new.
-2. **Clone and Contribute**: Ready to contribute? Clone the [deployment repository](https://github.com/OS2sandbox/sandbox-samtale-deployment) to your environment and you are ready to test! Check out [Zulip](https://github.com/zulip) if you want to contribute upstream!
+2. **Contribute**:  Check out [Zulip](https://github.com/zulip) and [docker-zulip](https://github.com/zulip/docker-zulip/) for making upstream contributions!
 3. **Learn the Ropes**: New to open-source? [Check out this quick video introduction](https://www.youtube.com/watch?v=RGd5cOXpCQw) to get up to speed.
 
 ### 💡 Share Your Ideas 
